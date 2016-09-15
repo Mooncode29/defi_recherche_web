@@ -18,3 +18,10 @@ Cette expression est apparue depuis 1945, du temps des premiers ordinateurs. Bug
 
 source : [astucieux filemaker](http://astucieux-filemaker.com/un-bug-est-ne/)
 
+# Question 10 - Quels sont les communautés de developpeurs à Toulouse et quels sont leurs évenements?
+
+Le site meetup.com regroupe les nombreux communautés de developpeurs à Toulouse. A titre d'exemple, on peut citer quelques-uns avec les évenements qu'ils organisent dans les jours qui viennent  : 
+les Bricodeurs à Toulouse : 
+Angular Toulouse,
+JS and Co : Echanger sur pourquoi utiliser Javascript en 2016 (jeudi 15/09/2016)
+Toulouse devops
