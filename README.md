@@ -11,3 +11,10 @@ Stven Wozniak est né en 1950 dans Silicon Valley. Fils d'un ingénieur en elect
 
 source : [Qwant](http://www.aventure-apple.com/bios/steves.html)
  [Qwant](http://www.lsa-conso.fr/carnet-des-decideurs/wozniak-steve,131706)
+
+# Question 9 - D'où vient l'expression "bug informatique"?
+
+Cette expression est apparue depuis 1945, du temps des premiers ordinateurs. Bug signifie insecte en anglais. A cette époque, les ordinateurs ressemblaient à des enormes machines, fonctionnant notamment avec des lampes. Ces derniers atttirent les insectes, qui finissent par s'y brûler les ailes et entraînant ainsi un dysfonctionnement de la machine. Plus précisément, l'experession vient de Grace Muray Hopper, programmeuse dans la marine américaine en 1943. Elle a réussi à détecter cet incident décrit précedemment. Elle l'a ensuite noté sur son carnet de bord "first actual cause of bug being found". Cette anecdote a été donc à l'origine de l'expression bug informatique.
+
+source : [astucieux filemaker](http://astucieux-filemaker.com/un-bug-est-ne/)
+
